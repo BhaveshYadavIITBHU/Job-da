@@ -1,0 +1,11 @@
+skill_a,skill_b,co_occurrence_count,rank,pair_label
+Excel,Python,93,1,Excel + Python
+JavaScript,Python,75,2,JavaScript + Python
+Excel,JavaScript,67,3,Excel + JavaScript
+Python,SQL,65,4,Python + SQL
+Excel,SQL,54,5,Excel + SQL
+Git,JavaScript,35,6,Git + JavaScript
+Git,Python,34,7,Git + Python
+JavaScript,SQL,31,8,JavaScript + SQL
+Java,Python,29,9,Java + Python
+Java,JavaScript,27,10,Java + JavaScript

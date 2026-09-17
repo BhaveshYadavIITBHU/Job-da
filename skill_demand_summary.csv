@@ -1,0 +1,24 @@
+skill_name,total_postings,avg_midpoint_salary,postings_with_salary
+Excel,256,90000.0,2
+Python,168,135833.33,6
+JavaScript,115,111250.0,4
+SQL,107,108754.13,8
+Git,48,105000.0,1
+Java,47,113333.33,3
+Machine Learning,42,110000.0,4
+AWS,40,126875.0,4
+Azure,36,126875.0,4
+API Development,34,,0
+Docker,32,,0
+GCP,23,135500.0,5
+R,20,100000.0,1
+PowerBI,18,135000.0,2
+Kubernetes,18,133750.0,2
+Statistics,13,90000.0,2
+Data Warehousing,11,135000.0,2
+Tableau,10,135000.0,2
+Spark,9,,0
+dbt,8,161666.67,3
+Pandas,6,,0
+NumPy,5,,0
+Airflow,2,110000.0,1
